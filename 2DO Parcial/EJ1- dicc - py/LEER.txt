@@ -1,0 +1,4 @@
+Hola Profesor! Al rato de haber finalizado la clase virtual, en el grupo de whatsapp de la facultad se empezó a decir que el ejercicio 1 se debía realizar con un diccionario en formato .json. 
+Yo lo estaba realizando como un diccionario de phyton y luego ante la duda termine cambiandolo a un diccionario .json y adaptando lo que había hecho previamente para ese archivo nuevo. 
+Igualmente guarde una copia de lo que estaba haciendo con el diccionario de pokemon_data.py, lo termine de completar y se lo quería compartir en caso de que no se debía hacer con un diccionario .json. 
+Muchas Gracias!
